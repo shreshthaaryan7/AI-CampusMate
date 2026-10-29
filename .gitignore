@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+campusmate.db
+*.sqlite
+*.sqlite3
+.streamlit/secrets.toml
+.DS_Store
