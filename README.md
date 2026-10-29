@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI CampusMate — AI-Powered College Helpdesk Prototype
 
 AI CampusMate is a local Streamlit demonstration app for campus FAQs, cautious knowledge-base question answering, PDF text indexing, support tickets, a task planner, notice/FAQ management, and record-based analytics.
@@ -95,3 +96,6 @@ Text-based PDFs up to 5 MB and 100 pages are supported. Extracted text is stored
 - Keyword retrieval can miss paraphrases and is not semantic search.
 - PDF OCR, embeddings, LLM-generated grounded summaries, editing existing FAQs, and institutional integrations are not implemented.
 - No automated test suite is included yet; manually verify all workflows before presenting.
+=======
+# AI-CampusMate
+>>>>>>> 95673034975101402876d97a9d861d9f0f22d811
